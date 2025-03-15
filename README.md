@@ -1,16 +1,18 @@
 ## Hi there 👋
+My name is Eddy, and I'm currently a cyber security student
 
-<!--
-**ekpeve/ekpeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I love to learn and collaborating with others to build fun exciting projects.
+- I also love to serve, so I'm always open to opportunities to volunteer and serve within the cyber security community
+- My greatest strengths are teamwork, hardwork, and a high aptitude for learning
+- I'm currently learning skills and tools that will help me become a better cyber defender, including skills like Digital Forensics and Malware Analysis
+- I plan to use this platform to document my learning journey
+  
+## Proficiency
+- SIEM, Log Analysis
+- Incident Response
+- Python
 
-Here are some ideas to get you started:
+## Let's Connect
+Here is my LinkedIn Profile www.linkedin.com/in/ekpe-edidiong. Let's connect and collaborate!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
