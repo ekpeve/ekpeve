@@ -15,6 +15,3 @@ My name is Eddy, and I'm currently a cyber security student
 
 ## Let's Connect
 Here is my LinkedIn Profile www.linkedin.com/in/ekpe-edidiong. Let's connect and collaborate!
-
-## For CTF Players
-U2FsdGVkX187/1Heyep3aPMshpF4ZCgHba4QEidKA45jD+tNoTe4Mh3ZdMgMlxgf
